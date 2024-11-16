@@ -38,7 +38,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 5.Repeat steps 2-4 for each bit you want to input and shift.
 
 **PROGRAM**
-
+```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
 Developed by: Sana Fathima H
@@ -56,15 +56,20 @@ begin
 end
 endmodule
 */
+```
 
 **RTL LOGIC UP COUNTER**
+
 ![Screenshot 2024-11-16 135030](https://github.com/user-attachments/assets/611f8a4b-2456-405a-9e99-c971b9ccfdb9)
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
+
 ![Screenshot 2024-11-16 135058](https://github.com/user-attachments/assets/fd7b7d43-698d-435a-a8e9-e98ffd19cc84)
 
+
 **TRUTH TABLE**
+
 ![image](https://github.com/user-attachments/assets/f23b354a-1a07-48fa-92c8-395b7e69131c)
 
 
